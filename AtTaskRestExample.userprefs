@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AtTaskRestExample/AtTaskRestClientDemo.cs" ctype="Workbench">
+    <Files>
+      <File FileName="AtTaskRestExample/RestClient.cs" Line="134" Column="40" />
+      <File FileName="AtTaskRestExample/AtTaskRestClient.cs" Line="35" Column="4" />
+      <File FileName="AtTaskRestExample/ObjCode.cs" Line="35" Column="44" />
+      <File FileName="AtTaskRestExample/AtTaskRestClientDemo.cs" Line="20" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="AtTaskRestExample" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/joel/Projects/AtTaskRestExample/AtTaskRestExample/JsonResponse.cs" line="34" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
